@@ -4,6 +4,7 @@ A minimal Rust Hello World program for YWCC-307.
 
 Run it with:
 
-```text
-cargo run
+```bash
+rustc src/main.rs -o hello_world.exe
+./hello_world.exe
 ```
